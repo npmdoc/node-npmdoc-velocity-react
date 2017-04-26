@@ -1,6 +1,6 @@
 # npmdoc-velocity-react
 
-#### api documentation for  [velocity-react (v1.2.1)](https://github.com/twitter-fabric/velocity-react#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-velocity-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-velocity-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-velocity-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-velocity-react)
+#### basic api documentation for  [velocity-react (v1.2.2)](https://github.com/twitter-fabric/velocity-react#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-velocity-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-velocity-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-velocity-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-velocity-react)
 
 #### React components to wrap Velocity animations
 
@@ -52,10 +52,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "d0cb59289a3b666c596da109d5f541d6e6f8ad98",
-        "tarball": "https://registry.npmjs.org/velocity-react/-/velocity-react-1.2.1.tgz"
+        "shasum": "4e3dcd6a4ba2b5b44748b3b1c18391838265ad56",
+        "tarball": "https://registry.npmjs.org/velocity-react/-/velocity-react-1.2.2.tgz"
     },
-    "gitHead": "86a1c786867cec66c6e05c42fb7d290d3ca97c5b",
+    "gitHead": "89c8675ddf33eca05a5d76ebdc105d09ec604a9b",
     "homepage": "https://github.com/twitter-fabric/velocity-react#readme",
     "keywords": [
         "velocity",
@@ -88,7 +88,8 @@
     "scripts": {
         "demo": "webpack-dev-server --progress --colors --content-base demo --hot --inline --config demo/webpack.config.js"
     },
-    "version": "1.2.1"
+    "version": "1.2.2",
+    "bin": {}
 }
 ```
 
